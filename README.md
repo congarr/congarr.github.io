@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## big test
 
-(https://github.com/congarr/congarr.github.io/edit/master/site_html/index.html)
-You can use the [editor on GitHub](https://github.com/congarr/congarr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+link test (congarr.github.io/site html/index.html)
+      
+lmao this is way easier than i thought.
 
 ### Markdown
 
